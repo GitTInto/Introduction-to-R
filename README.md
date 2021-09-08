@@ -1,2 +1,2 @@
-# R
-This Repository is for R
+# Introduction-to-R
+Understanding the basics of R
